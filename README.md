@@ -4,10 +4,12 @@ User Management project using React in front end and Node js in back end.
 ## Features
 
 * Login, Signup and Home page for users.
+* Login is validated using JWT.
 * ### Admin panel
 * Admin panel have login with validation 
 * Admin can view and perform search on user data
 * Admin can create, delete and edit user data.
+*  Handled sessions using JWT.
 
 ## Prerequisites
 
